@@ -7,7 +7,7 @@ It was initialized using the following command:
 ```bash
 npx @react-native-reusables/cli@latest init -t movie-app
 ```
-
+  
 ## Getting Started
 
 To run the development server:
